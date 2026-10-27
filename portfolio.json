@@ -1,0 +1,48 @@
+{
+  "name": "ABOUT ME",
+  "photo": "profile.jpg",
+  "bio": [
+    "Lulusan S1 Teknik Elektro Universitas Wijayakusuma Purwokerto dengan IPK 3,77/4,00 serta pengalaman dalam audit bangunan dan pekerjaan kelistrikan. Memiliki pengalaman melakukan pemeriksaan fire detector, fire alarm system, serta jalur hydrant dan pengunciannya. Memiliki pengetahuan di bidang kontrol dan proteksi, energi baru terbarukan, pengolahan data, serta kemampuan menggunakan AutoCAD dan Microsoft Office. Teliti, memiliki kemauan belajar yang tinggi, dan siap mengembangkan kompetensi di bidang MEP untuk mendukung pekerjaan teknis, inspeksi, dan operasional bangunan."
+  ],
+  "links": [
+    {
+      "name": "LINKEDIN",
+      "url": "https://www.linkedin.com"
+    },
+    {
+      "name": "INSTAGRAM",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "name": "GITHUB",
+      "url": "https://github.com/"
+    }
+  ],
+  "timeline": [
+    {
+      "role": "Pelajar",
+      "org": "Pendidikan",
+      "year": "2022"
+    },
+    {
+      "role": "Web Designer",
+      "org": "Proyek pribadi",
+      "year": "2023"
+    },
+    {
+      "role": "Frontend Developer",
+      "org": "Proyek web",
+      "year": "2024"
+    },
+    {
+      "role": "Web Developer",
+      "org": "Kolaborasi",
+      "year": "2025"
+    },
+    {
+      "role": "Portfolio Developer",
+      "org": "Saat ini",
+      "year": "2026"
+    }
+  ]
+}
